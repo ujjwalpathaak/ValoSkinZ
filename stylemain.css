@@ -1,0 +1,405 @@
+body {
+  background-image: url("https://preview.redd.it/p2x1aylaup551.png?width=1920&format=png&auto=webp&s=6008a3dab9aef0e0eaec44752fa480576b670738");
+  background-repeat: repeat-y;
+  background-size: 100%;
+}
+#BlastX {
+  background-color: #0c0b29;
+  color: white;
+  padding: 7px 21px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 96px;
+  margin: 33px 10px 10px 0px;
+  font-family: "Staatliches", cursive;
+  font-size: 50px;
+  position: absolute;
+}
+#Elderflame {
+  background-color: #0c0b29;
+  color: white;
+  padding: 7px 21px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 96px;
+  margin: 15px 18px 18px 420px;
+  font-family: "Staatliches", cursive;
+  font-size: 50px;
+  position: absolute;
+}
+#Forsaken {
+  background-color: #0c0b29;
+  color: white;
+  padding: 7px 21px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 96px;
+  margin: 190px 10px 10px 420px;
+  font-family: "Staatliches", cursive;
+  font-size: 50px;
+  position: absolute;
+}
+#GlitchPop {
+  background-color: #0c0b29;
+  color: white;
+  padding: 7px 21px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 96px;
+  margin: 77px 10px 10px 420px;
+  font-family: "Staatliches", cursive;
+  font-size: 50px;
+  position: absolute;
+}
+#Ion {
+  background-color: #0c0b29;
+  color: white;
+  padding: 7px 21px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 96px;
+  margin: 56px 10px 10px 10px;
+  font-family: "Staatliches", cursive;
+  font-size: 50px;
+  position: absolute;
+}
+#Oni {
+  background-color: #0c0b29;
+  color: white;
+  padding: 7px 21px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 96px;
+  margin: 133px 10px 10px 10px;
+  font-family: "Staatliches", cursive;
+  font-size: 50px;
+  position: absolute;
+}
+#Ruination {
+  background-color: #0c0b29;
+  color: white;
+  padding: 7px 21px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 96px;
+  margin: 210px 10px 10px 10px;
+  font-family: "Staatliches", cursive;
+  font-size: 50px;
+  position: absolute;
+}
+#SentinelsofLight {
+  background-color: #0c0b29;
+  color: white;
+  padding: 7px 21px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 96px;
+  margin: 290px 10px 10px 10px;
+  font-family: "Staatliches", cursive;
+  font-size: 50px;
+  position: absolute;
+}
+#Singualrity {
+  background-color: #0c0b29;
+  color: white;
+  padding: 7px 21px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 96px;
+  margin: 367px 10px 10px 10px;
+  font-family: "Staatliches", cursive;
+  font-size: 50px;
+  position: absolute;
+}
+#Spectrum {
+  background-color: #0c0b29;
+  color: white;
+  padding: 7px 21px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 96px;
+  margin: 444px 10px 10px 5px;
+  font-family: "Staatliches", cursive;
+  font-size: 50px;
+  position: absolute;
+}
+#start {
+  margin: 800px 0px 0px 0px;
+}
+
+#nameofskinBlastX {
+  background-color: #3e356c;
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 919px 0px 100px 55px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+#nameofskinElderflame {
+  background-color: #3e356c;
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 2023px 0px 118px -8px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+#nameofskinForsaken {
+  background-color: #3e356c;
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 3015px 0px 106px 21px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+#nameofskinGlitchPop {
+  background-color: #3e356c;
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 3987px 0px 100px 10px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+#nameofskinIon {
+  background-color: #3e356c;
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 4999px 0px 100px 102px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+#nameofskinOni {
+  background-color: #3e356c;
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 5974px 0px 181px 87px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+#nameofskinRuination {
+  background-color: #3e356c;
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 6927px 0px 100px 19px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+#nameofskinSentinelsofLight {
+  background-color: #3e356c;
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 7963px -102px 137px -95px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+#nameofskinSingualrity {
+  background-color: #3e356c;
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 9097px 0px 100px -7px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+#nameofskinSpectrum {
+  background-color: #3e356c;
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 10036px 0px 100px 11px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+
+#nameofskinBlastXo {
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 1003px 0px 96px -608px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+#nameofskinElderflameo {
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 2108px 0px 96px -608px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+#nameofskinForsakeno {
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 3100px 0px 96px -608px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+#nameofskinGlitchPopo {
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 4070px 0px 96px -608px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+#nameofskinIono {
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 5041px 0px 96px -608px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+#nameofskinOnio {
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 6104px 0px 96px -608px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+#nameofskinRuinationo {
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 7000px 0px 96px -608px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+#nameofskinSentinelsofLighto {
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 8046px 0px 96px -608px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+#nameofskinSingualrityo {
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 9174px 0px 96px -608px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+#nameofskinSpectrumo {
+  color: white;
+  padding: 1px 40%;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0px;
+  margin: 10117px 0px 96px -608px;
+  font-family: "Staatliches", cursive;
+  font-size: 70px;
+  position: absolute;
+}
+
+#button {
+  position: fixed;
+  z-index: 10;
+  text-decoration: none;
+  background-color: rgb(156, 151, 151);
+  color: black;
+  padding: 9px;
+  border-radius: 194px;
+  display: inline-block;
+  margin: 638px 1px;
+}
